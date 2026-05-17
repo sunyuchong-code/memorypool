@@ -1,0 +1,9 @@
+# VS编译垃圾文件
+.vs/
+x64/
+Debug/
+Release/
+*.vcxproj.user
+*.obj
+*.pdb
+*.ilk
